@@ -6,3 +6,4 @@ cd /home/ec2-user/nodejs-aws-codedeploy-pipeline >> /home/ec2-user/nodejs-aws-co
 
 echo 'npm install' >> /home/ec2-user/nodejs-aws-codedeploy-pipeline/deploy.log 
 npm install >> /home/ec2-user/nodejs-aws-codedeploy-pipeline/deploy.log
+npm start
